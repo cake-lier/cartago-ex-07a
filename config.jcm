@@ -1,4 +1,4 @@
-mas hello_world {
+mas exercise_07a {
     agent gui_tester_agent
 
     asl-path: "src/main/jason"

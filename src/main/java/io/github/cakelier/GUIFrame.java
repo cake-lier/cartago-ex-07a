@@ -1,3 +1,5 @@
+package io.github.cakelier;
+
 import javax.swing.*;
 import java.awt.*;
 

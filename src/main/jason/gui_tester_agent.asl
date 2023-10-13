@@ -1,7 +1,7 @@
 !gui_tester.
 
 +!gui_tester : true <-
-    makeArtifact("gui", "MySimpleGUI", [], GUIId);
+    makeArtifact("gui", "io.github.cakelier.MySimpleGUI", [], GUIId);
     focus(GUIId).
 
 +value_updated(N) : true <-
