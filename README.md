@@ -1,4 +1,4 @@
-# JaCaMo by exercises — Exercise 07a — Programming GUI as Artifacts
+# CArtAgO by exercises — Exercise 07a — Programming GUI as Artifacts
 
 In this exercise, you'll get familiar with artifacts that implement GUI components. 
 This is done by extending the abstract class "GUIArtifact" instead of the usual "Artifact" class.
